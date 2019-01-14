@@ -1,10 +1,10 @@
 # Quantamize AMP HTML pages taken over by Mission Disrupt
 Scope of requested chnges as per Dean D.
-<li> - Menu turn's black </li>
-<li> - Menu text white </li>
-<li> - Replace Quantamize logo with "white text" quantamize logo </li>
-<li> - Replace black hamburger menu with white hamburger menu </li>
-<li> - All Blog pages – Crypto QuantShot detail, Morning Quant Ride detail, and blog detail </li>
+<li> Menu turn's black </li>
+<li> Menu text white </li>
+<li> Replace Quantamize logo with "white text" quantamize logo </li>
+<li> Replace black hamburger menu with white hamburger menu </li>
+<li> All Blog pages – Crypto QuantShot detail, Morning Quant Ride detail, and blog detail </li>
 <i>Source project pulled from https://quiux.preview.winmill.com/AMP-Sample-Pages</i>
 
 ## Lastest changes -
