@@ -8,7 +8,7 @@ Scope of requested chnges as per Dean D.
 <i>Source project pulled from https://quiux.preview.winmill.com/AMP-Sample-Pages</i>
 
 ## Lastest changes -
-table (view-table.html) and graphs (view-grapoh.html) html markup removed and replaced with "View Table/Graph" button as AMP does not allow table markup. - 1/19/19 by BS
+table (view-table.html) and graphs (view-grapoh.html) html markup removed and replaced with "View Table/Graph" button as AMP does not allow table markup. - 1/19/19 by BS<br>
 include updated logo for black background header on 1/14/19 by BS
 
 ### Preview the edits on Mission Disrupts Server
