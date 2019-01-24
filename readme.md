@@ -28,7 +28,7 @@ include updated logo for black background header on 1/14/19 by BS
 <li>https://www.missiondisrupt.com/wp-content/assets/quantamize/Quantamize-AMP/templates/quantshot.amp.html</li>
 --
 <li>https://www.missiondisrupt.com/wp-content/assets/quantamize/Quantamize-AMP/templates/view-graph.html</li>
-<li>https://www.missiondisrupt.com/wp-content/assets/quantamize/Quantamize-AMP/templates/view-table.amp.html</li>
+<li>https://www.missiondisrupt.com/wp-content/assets/quantamize/Quantamize-AMP/templates/view-table.html</li>
 
 
 #Deployment
